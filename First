@@ -1,0 +1,3 @@
+print("Hello, this is my first Github projecr")
+name = input("Please tell us your name:")
+print("Welcome to the team, name")
